@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "platform": "pc",
+  "platformName": "PC (Windows)",
+  "updated": "2026-09-07",
+  "entries": [
+    {
+      "id": "steins-gate-2010",
+      "title": "Steins;Gate",
+      "year": 2010,
+      "arch": "x86",
+      "status": "playable",
+      "notes": "UI glitchy"
+    },
+    {
+      "id": "prince-of-persia-sands-of-time-2003",
+      "title": "Prince of Persia: The Sands of Time",
+      "year": 2003,
+      "arch": "x86",
+      "status": "playable",
+      "notes": "UI glitchy"
+    },
+    {
+      "id": "steins-gate-reboot-2026",
+      "title": "Steins;Gate Reboot",
+      "year": 2026,
+      "arch": "x64",
+      "status": "playable",
+      "notes": "UI glitchy"
+    }
+  ]
+}

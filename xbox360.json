@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "platform": "xbox360",
+  "platformName": "Xbox 360",
+  "updated": "2026-09-07",
+  "entries": [
+    {
+      "id": "super-mario-64-homebrew",
+      "title": "Super Mario 64 (Homebrew)",
+      "status": "playable",
+      "notes": "Glitchy"
+    },
+    {
+      "id": "final-fantasy-xiii",
+      "title": "Final Fantasy XIII",
+      "status": "in-menu",
+      "notes": "Glitchy"
+    }
+  ]
+}
