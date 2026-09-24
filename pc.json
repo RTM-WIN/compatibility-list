@@ -2,27 +2,47 @@
   "schemaVersion": 1,
   "platform": "pc",
   "platformName": "PC (Windows)",
-  "updated": "2026-09-07",
+  "updated": "2026-09-24",
   "entries": [
     {
       "id": "steins-gate-2010",
-      "title": "Steins;Gate",
+      "title": "STEINS;GATE",
       "year": 2010,
       "arch": "x86",
       "status": "playable",
       "notes": "UI glitchy"
     },
     {
-      "id": "prince-of-persia-sands-of-time-2003",
-      "title": "Prince of Persia: The Sands of Time",
-      "year": 2003,
+      "id": "steins-gate-linear-bounded-phenogram-2019",
+      "title": "STEINS;GATE: Linear Bounded Phenogram",
+      "year": 2019,
       "arch": "x86",
-      "status": "playable",
-      "notes": "UI glitchy"
+      "status": "playable"
+    },
+    {
+      "id": "steins-gate-my-darlings-embrace-2019",
+      "title": "STEINS;GATE: My Darling's Embrace",
+      "year": 2019,
+      "arch": "x86",
+      "status": "playable"
+    },
+    {
+      "id": "fate-stay-night-remastered-2024",
+      "title": "Fate/stay night REMASTERED",
+      "year": 2024,
+      "arch": "x64",
+      "status": "playable"
+    },
+    {
+      "id": "fate-hollow-ataraxia-remastered-2025",
+      "title": "Fate/hollow ataraxia REMASTERED",
+      "year": 2025,
+      "arch": "x64",
+      "status": "playable"
     },
     {
       "id": "steins-gate-reboot-2026",
-      "title": "Steins;Gate Reboot",
+      "title": "STEINS;GATE RE:BOOT",
       "year": 2026,
       "arch": "x64",
       "status": "playable",
