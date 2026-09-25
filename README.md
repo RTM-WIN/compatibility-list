@@ -1,10 +1,11 @@
 # RTM WIN — compatibility list
 
-Two JSON files, one per emulated machine, read directly by the RTM WIN iOS app.
+JSON files, one per emulated machine (and one for the 32-bit app), read directly by the RTM WIN iOS app.
 
 | file | machine |
 |---|---|
 | `pc.json` | PC (Windows) titles, 32- and 64-bit |
+| `pc-32bit.json` | PC (Windows) 32-bit titles, as the 32-bit app (RTMHub32) runs them |
 | `xbox360.json` | Xbox 360 titles |
 
 The app fetches these over HTTPS from `raw.githubusercontent.com` on the

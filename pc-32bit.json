@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "platform": "pc-32bit",
+  "platformName": "PC (Windows, 32-bit)",
+  "updated": "2026-09-25",
+  "entries": [
+    {
+      "id": "steins-gate-2010",
+      "title": "STEINS;GATE",
+      "year": 2010,
+      "arch": "x86",
+      "status": "playable",
+      "notes": "UI glitchy"
+    },
+    {
+      "id": "steins-gate-linear-bounded-phenogram-2019",
+      "title": "STEINS;GATE: Linear Bounded Phenogram",
+      "year": 2019,
+      "arch": "x86",
+      "status": "playable"
+    },
+    {
+      "id": "steins-gate-my-darlings-embrace-2019",
+      "title": "STEINS;GATE: My Darling's Embrace",
+      "year": 2019,
+      "arch": "x86",
+      "status": "playable"
+    },
+    {
+      "id": "doki-doki-literature-club-2017",
+      "title": "Doki Doki Literature Club!",
+      "year": 2017,
+      "arch": "x86",
+      "status": "playable",
+      "notes": "Slow"
+    },
+    {
+      "id": "b-project-ryusei-fantasia-demo",
+      "title": "B-PROJECT Ryusei*Fantasia (Demo)",
+      "arch": "x86",
+      "status": "playable"
+    },
+    {
+      "id": "prince-of-persia-the-sands-of-time-2003",
+      "title": "Prince of Persia: The Sands of Time",
+      "year": 2003,
+      "arch": "x86",
+      "status": "in-menu",
+      "notes": "Audio choppy"
+    },
+    {
+      "id": "full-tilt-pinball-1995",
+      "title": "Full Tilt! Pinball (Demo)",
+      "year": 1995,
+      "arch": "x86",
+      "status": "in-menu",
+      "notes": "Table shows; controls untested"
+    },
+    {
+      "id": "skifree-1991",
+      "title": "SkiFree",
+      "year": 1991,
+      "arch": "x86",
+      "status": "in-menu",
+      "notes": "Very slow"
+    }
+  ]
+}
