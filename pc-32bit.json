@@ -2,11 +2,12 @@
   "schemaVersion": 1,
   "platform": "pc-32bit",
   "platformName": "PC (Windows, 32-bit)",
-  "updated": "2026-09-25",
+  "updated": "2026-10-02",
   "entries": [
     {
       "id": "steins-gate-2010",
       "title": "STEINS;GATE",
+      "steamAppID": 412830,
       "year": 2010,
       "arch": "x86",
       "status": "playable",
@@ -15,6 +16,7 @@
     {
       "id": "steins-gate-linear-bounded-phenogram-2019",
       "title": "STEINS;GATE: Linear Bounded Phenogram",
+      "steamAppID": 930910,
       "year": 2019,
       "arch": "x86",
       "status": "playable"
@@ -22,6 +24,7 @@
     {
       "id": "steins-gate-my-darlings-embrace-2019",
       "title": "STEINS;GATE: My Darling's Embrace",
+      "steamAppID": 970560,
       "year": 2019,
       "arch": "x86",
       "status": "playable"
@@ -29,6 +32,7 @@
     {
       "id": "doki-doki-literature-club-2017",
       "title": "Doki Doki Literature Club!",
+      "steamAppID": 698780,
       "year": 2017,
       "arch": "x86",
       "status": "playable",
@@ -37,12 +41,14 @@
     {
       "id": "b-project-ryusei-fantasia-demo",
       "title": "B-PROJECT Ryusei*Fantasia (Demo)",
+      "steamAppID": 2972000,
       "arch": "x86",
       "status": "playable"
     },
     {
       "id": "prince-of-persia-the-sands-of-time-2003",
       "title": "Prince of Persia: The Sands of Time",
+      "steamAppID": 13600,
       "year": 2003,
       "arch": "x86",
       "status": "in-menu",
