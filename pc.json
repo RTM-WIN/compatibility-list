@@ -75,7 +75,7 @@
       "steamAppID": 13600,
       "year": 2003,
       "arch": "x86",
-      "status": "in-menu",
+      "status": "playable",
       "notes": "Audio choppy"
     },
     {
@@ -83,16 +83,14 @@
       "title": "Full Tilt! Pinball (Demo)",
       "year": 1995,
       "arch": "x86",
-      "status": "in-menu",
-      "notes": "Table shows; controls untested"
+      "status": "playable"
     },
     {
       "id": "skifree-1991",
       "title": "SkiFree",
       "year": 1991,
       "arch": "x86",
-      "status": "in-menu",
-      "notes": "Very slow"
+      "status": "playable"
     },
     {
       "id": "steins-gate-0-2018",
@@ -108,8 +106,7 @@
       "steamAppID": 819030,
       "year": 2019,
       "arch": "x86",
-      "status": "playable",
-      "notes": "Needs Wine's core"
+      "status": "playable"
     },
     {
       "id": "99-spirits-2014",
@@ -117,8 +114,7 @@
       "steamAppID": 258090,
       "year": 2014,
       "arch": "x86",
-      "status": "playable",
-      "notes": "Slow; needs Wine's core"
+      "status": "playable"
     },
     {
       "id": "go-go-nippon-my-first-trip-to-japan-2011",
@@ -143,8 +139,7 @@
       "steamAppID": 251270,
       "year": 2016,
       "arch": "x86",
-      "status": "playable",
-      "notes": "Needs Wine's core"
+      "status": "playable"
     },
     {
       "id": "overcooked-2-2018",
@@ -162,7 +157,7 @@
       "year": 2015,
       "arch": "x86",
       "status": "boots",
-      "notes": "Stops at Now Loading (no movie decoder)"
+      "notes": "Stops at Now Loading"
     },
     {
       "id": "lightning-returns-final-fantasy-xiii-2015",
@@ -170,8 +165,7 @@
       "steamAppID": 345350,
       "year": 2015,
       "arch": "x86",
-      "status": "unplayable",
-      "notes": "Needs cube textures"
+      "status": "unplayable"
     }
   ]
 }
