@@ -50,7 +50,7 @@
       "steamAppID": 13600,
       "year": 2003,
       "arch": "x86",
-      "status": "in-menu",
+      "status": "playable",
       "notes": "Audio choppy"
     },
     {
@@ -58,8 +58,7 @@
       "title": "Full Tilt! Pinball (Demo)",
       "year": 1995,
       "arch": "x86",
-      "status": "in-menu",
-      "notes": "Table shows; controls untested"
+      "status": "playable"
     },
     {
       "id": "skifree-1991",
@@ -67,7 +66,7 @@
       "year": 1991,
       "arch": "x86",
       "status": "in-menu",
-      "notes": "Very slow"
+      "notes": "playable"
     },
     {
       "id": "steins-gate-0-2018",
@@ -137,7 +136,7 @@
       "year": 2015,
       "arch": "x86",
       "status": "boots",
-      "notes": "Stops at Now Loading (no movie decoder)"
+      "notes": "Stops at Now Loading"
     },
     {
       "id": "lightning-returns-final-fantasy-xiii-2015",
@@ -146,7 +145,6 @@
       "year": 2015,
       "arch": "x86",
       "status": "unplayable",
-      "notes": "Needs cube textures"
     }
   ]
 }
