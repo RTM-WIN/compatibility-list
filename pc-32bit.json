@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "platform": "pc-32bit",
   "platformName": "PC (Windows, 32-bit)",
-  "updated": "2026-10-02",
+  "updated": "2026-10-07",
   "entries": [
     {
       "id": "steins-gate-2010",
@@ -35,8 +35,7 @@
       "steamAppID": 698780,
       "year": 2017,
       "arch": "x86",
-      "status": "playable",
-      "notes": "Slow"
+      "status": "playable"
     },
     {
       "id": "b-project-ryusei-fantasia-demo",
@@ -69,6 +68,85 @@
       "arch": "x86",
       "status": "in-menu",
       "notes": "Very slow"
+    },
+    {
+      "id": "steins-gate-0-2018",
+      "title": "STEINS;GATE 0",
+      "steamAppID": 825630,
+      "year": 2018,
+      "arch": "x86",
+      "status": "playable"
+    },
+    {
+      "id": "steins-gate-elite-2019",
+      "title": "STEINS;GATE ELITE",
+      "steamAppID": 819030,
+      "year": 2019,
+      "arch": "x86",
+      "status": "playable",
+      "notes": "Needs Wine's core"
+    },
+    {
+      "id": "99-spirits-2014",
+      "title": "99 Spirits",
+      "steamAppID": 258090,
+      "year": 2014,
+      "arch": "x86",
+      "status": "playable",
+      "notes": "Slow; needs Wine's core"
+    },
+    {
+      "id": "go-go-nippon-my-first-trip-to-japan-2011",
+      "title": "Go! Go! Nippon! ~My First Trip to Japan~",
+      "steamAppID": 251870,
+      "year": 2011,
+      "arch": "x86",
+      "status": "playable"
+    },
+    {
+      "id": "the-deed-2015",
+      "title": "The Deed",
+      "steamAppID": 420740,
+      "year": 2015,
+      "arch": "x86",
+      "status": "playable",
+      "notes": "Very slow"
+    },
+    {
+      "id": "corpse-party-2016",
+      "title": "Corpse Party",
+      "steamAppID": 251270,
+      "year": 2016,
+      "arch": "x86",
+      "status": "playable",
+      "notes": "Needs Wine's core"
+    },
+    {
+      "id": "overcooked-2-2018",
+      "title": "Overcooked! 2",
+      "steamAppID": 728880,
+      "year": 2018,
+      "arch": "x86",
+      "status": "in-menu",
+      "notes": "Very slow"
+    },
+    {
+      "id": "agarest-zero-2015",
+      "title": "Agarest Zero",
+      "steamAppID": 260130,
+      "year": 2015,
+      "arch": "x86",
+      "status": "boots",
+      "notes": "Stops at Now Loading (no movie decoder)"
+    },
+    {
+      "id": "lightning-returns-final-fantasy-xiii-2015",
+      "title": "LIGHTNING RETURNS: FINAL FANTASY XIII",
+      "steamAppID": 345350,
+      "year": 2015,
+      "arch": "x86",
+      "status": "unplayable",
+      "notes": "Needs cube textures"
     }
   ]
 }
