@@ -24,6 +24,7 @@ release. That is the point of keeping them in their own repository.
     {
       "id": "steins-gate-2010",
       "title": "Steins;Gate",
+      "isVN": true,
       "steamAppID": 412830,
       "year": 2010,
       "arch": "x86",
@@ -38,6 +39,7 @@ release. That is the point of keeping them in their own repository.
 |---|---|---|
 | `id` | yes | stable, lowercase, hyphenated. **Never reuse or rewrite one** — the app keys on it |
 | `title` | yes | the title as a player would recognise it |
+| `isVN` | no | `true` for a visual novel. The app's Compatibility page filters on it (Visual Novel / Others / All); left out, a title is listed under Others |
 | `steamAppID` | no | the game's Steam app id (the number in its store URL). The app's Steam tab uses it for the "Verified games" filter, so a demo gets the **demo's** id, not the full game's. Leave it out for titles that are not on Steam |
 | `year` | no | release year, shown beside the title |
 | `arch` | PC only | `x86` (32-bit) or `x64` (64-bit); the app groups by it |

@@ -7,6 +7,7 @@
     {
       "id": "steins-gate-2010",
       "title": "STEINS;GATE",
+      "isVN": true,
       "steamAppID": 412830,
       "year": 2010,
       "arch": "x86",
@@ -16,6 +17,7 @@
     {
       "id": "steins-gate-linear-bounded-phenogram-2019",
       "title": "STEINS;GATE: Linear Bounded Phenogram",
+      "isVN": true,
       "steamAppID": 930910,
       "year": 2019,
       "arch": "x86",
@@ -24,6 +26,7 @@
     {
       "id": "fate-stay-night-remastered-2024",
       "title": "Fate/stay night REMASTERED",
+      "isVN": true,
       "steamAppID": 2396980,
       "year": 2024,
       "arch": "x64",
@@ -32,6 +35,7 @@
     {
       "id": "fate-hollow-ataraxia-remastered-2025",
       "title": "Fate/hollow ataraxia REMASTERED",
+      "isVN": true,
       "steamAppID": 2396990,
       "year": 2025,
       "arch": "x64",
@@ -40,6 +44,7 @@
     {
       "id": "steins-gate-reboot-2026",
       "title": "STEINS;GATE RE:BOOT",
+      "isVN": true,
       "steamAppID": 4012810,
       "year": 2026,
       "arch": "x64",
@@ -49,6 +54,7 @@
     {
       "id": "steins-gate-my-darlings-embrace-2019",
       "title": "STEINS;GATE: My Darling's Embrace",
+      "isVN": true,
       "steamAppID": 970560,
       "year": 2019,
       "arch": "x86",
@@ -57,6 +63,7 @@
     {
       "id": "doki-doki-literature-club-2017",
       "title": "Doki Doki Literature Club!",
+      "isVN": true,
       "steamAppID": 698780,
       "year": 2017,
       "arch": "x86",
@@ -65,6 +72,7 @@
     {
       "id": "b-project-ryusei-fantasia-demo",
       "title": "B-PROJECT Ryusei*Fantasia (Demo)",
+      "isVN": true,
       "steamAppID": 2972000,
       "arch": "x86",
       "status": "playable"
@@ -72,6 +80,7 @@
     {
       "id": "prince-of-persia-the-sands-of-time-2003",
       "title": "Prince of Persia: The Sands of Time",
+      "isVN": false,
       "steamAppID": 13600,
       "year": 2003,
       "arch": "x86",
@@ -81,6 +90,7 @@
     {
       "id": "full-tilt-pinball-1995",
       "title": "Full Tilt! Pinball (Demo)",
+      "isVN": false,
       "year": 1995,
       "arch": "x86",
       "status": "playable"
@@ -88,6 +98,7 @@
     {
       "id": "skifree-1991",
       "title": "SkiFree",
+      "isVN": false,
       "year": 1991,
       "arch": "x86",
       "status": "playable"
@@ -95,6 +106,7 @@
     {
       "id": "steins-gate-0-2018",
       "title": "STEINS;GATE 0",
+      "isVN": true,
       "steamAppID": 825630,
       "year": 2018,
       "arch": "x86",
@@ -103,6 +115,7 @@
     {
       "id": "steins-gate-elite-2019",
       "title": "STEINS;GATE ELITE",
+      "isVN": true,
       "steamAppID": 819030,
       "year": 2019,
       "arch": "x86",
@@ -111,6 +124,7 @@
     {
       "id": "99-spirits-2014",
       "title": "99 Spirits",
+      "isVN": false,
       "steamAppID": 258090,
       "year": 2014,
       "arch": "x86",
@@ -119,6 +133,7 @@
     {
       "id": "go-go-nippon-my-first-trip-to-japan-2011",
       "title": "Go! Go! Nippon! ~My First Trip to Japan~",
+      "isVN": true,
       "steamAppID": 251870,
       "year": 2011,
       "arch": "x86",
@@ -127,6 +142,7 @@
     {
       "id": "the-deed-2015",
       "title": "The Deed",
+      "isVN": false,
       "steamAppID": 420740,
       "year": 2015,
       "arch": "x86",
@@ -136,6 +152,7 @@
     {
       "id": "corpse-party-2016",
       "title": "Corpse Party",
+      "isVN": false,
       "steamAppID": 251270,
       "year": 2016,
       "arch": "x86",
@@ -144,6 +161,7 @@
     {
       "id": "overcooked-2-2018",
       "title": "Overcooked! 2",
+      "isVN": false,
       "steamAppID": 728880,
       "year": 2018,
       "arch": "x86",
@@ -153,6 +171,7 @@
     {
       "id": "agarest-zero-2015",
       "title": "Agarest Zero",
+      "isVN": false,
       "steamAppID": 260130,
       "year": 2015,
       "arch": "x86",
@@ -162,6 +181,7 @@
     {
       "id": "lightning-returns-final-fantasy-xiii-2015",
       "title": "LIGHTNING RETURNS: FINAL FANTASY XIII",
+      "isVN": false,
       "steamAppID": 345350,
       "year": 2015,
       "arch": "x86",
