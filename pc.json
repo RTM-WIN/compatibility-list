@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "platform": "pc",
   "platformName": "PC (Windows)",
-  "updated": "2026-10-07",
+  "updated": "2026-10-08",
   "entries": [
     {
       "id": "steins-gate-2010",
@@ -50,6 +50,15 @@
       "arch": "x64",
       "status": "playable",
       "notes": "UI glitchy"
+    },
+    {
+      "id": "tiny-shadows-interwoven-hearts-2025",
+      "title": "Tiny Shadows Interwoven Hearts",
+      "isVN": true,
+      "steamAppID": 3865150,
+      "year": 2025,
+      "arch": "x64",
+      "status": "playable"
     },
     {
       "id": "steins-gate-my-darlings-embrace-2019",
