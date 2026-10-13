@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "platform": "pc",
   "platformName": "PC (Windows)",
-  "updated": "2026-10-08",
+  "updated": "2026-10-13",
   "entries": [
     {
       "id": "steins-gate-2010",
@@ -85,6 +85,23 @@
       "steamAppID": 2972000,
       "arch": "x86",
       "status": "playable"
+    },
+    {
+      "id": "nekopara-vol-1",
+      "title": "NEKOPARA Vol. 1",
+      "isVN": true,
+      "steamAppID": 333600,
+      "arch": "x86",
+      "status": "playable"
+    },
+    {
+      "id": "atri-my-dear-moments",
+      "title": "ATRI -My Dear Moments",
+      "isVN": true,
+      "steamAppID": 1230140,
+      "arch": "x86",
+      "status": "playable",
+      "notes": "Story scenes ~20 fps"
     },
     {
       "id": "prince-of-persia-the-sands-of-time-2003",
