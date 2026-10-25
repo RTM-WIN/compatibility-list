@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "platform": "pc",
   "platformName": "PC (Windows)",
-  "updated": "2026-10-13",
+  "updated": "2026-10-25",
   "entries": [
     {
       "id": "steins-gate-2010",
@@ -12,7 +12,9 @@
       "year": 2010,
       "arch": "x86",
       "status": "playable",
-      "notes": "some cutscene stutter"
+      "notes": "some cutscene stutter",
+      "downloadSource": "Steam",
+      "testOnDevice": "iPhone Air"
     },
     {
       "id": "steins-gate-linear-bounded-phenogram-2019",
@@ -21,7 +23,9 @@
       "steamAppID": 930910,
       "year": 2019,
       "arch": "x86",
-      "status": "playable"
+      "status": "playable",
+      "downloadSource": "Steam",
+      "testOnDevice": "iPhone Air"
     },
     {
       "id": "fate-stay-night-remastered-2024",
@@ -30,7 +34,9 @@
       "steamAppID": 2396980,
       "year": 2024,
       "arch": "x64",
-      "status": "playable"
+      "status": "playable",
+      "downloadSource": "Steam",
+      "testOnDevice": "iPhone Air"
     },
     {
       "id": "fate-hollow-ataraxia-remastered-2025",
@@ -39,7 +45,9 @@
       "steamAppID": 2396990,
       "year": 2025,
       "arch": "x64",
-      "status": "playable"
+      "status": "playable",
+      "downloadSource": "Steam",
+      "testOnDevice": "iPhone Air"
     },
     {
       "id": "steins-gate-reboot-2026",
@@ -49,7 +57,9 @@
       "year": 2026,
       "arch": "x64",
       "status": "playable",
-      "notes": "UI glitchy"
+      "notes": "UI glitchy",
+      "downloadSource": "Steam",
+      "testOnDevice": "iPhone Air"
     },
     {
       "id": "tiny-shadows-interwoven-hearts-2025",
@@ -58,7 +68,9 @@
       "steamAppID": 3865150,
       "year": 2025,
       "arch": "x64",
-      "status": "playable"
+      "status": "playable",
+      "downloadSource": "Steam",
+      "testOnDevice": "iPhone Air"
     },
     {
       "id": "steins-gate-my-darlings-embrace-2019",
@@ -67,7 +79,9 @@
       "steamAppID": 970560,
       "year": 2019,
       "arch": "x86",
-      "status": "playable"
+      "status": "playable",
+      "downloadSource": "Steam",
+      "testOnDevice": "iPhone Air"
     },
     {
       "id": "doki-doki-literature-club-2017",
@@ -76,7 +90,9 @@
       "steamAppID": 698780,
       "year": 2017,
       "arch": "x86",
-      "status": "playable"
+      "status": "playable",
+      "downloadSource": "Steam",
+      "testOnDevice": "iPhone Air"
     },
     {
       "id": "b-project-ryusei-fantasia-demo",
@@ -84,7 +100,9 @@
       "isVN": true,
       "steamAppID": 2972000,
       "arch": "x86",
-      "status": "playable"
+      "status": "playable",
+      "downloadSource": "Steam",
+      "testOnDevice": "iPhone Air"
     },
     {
       "id": "nekopara-vol-1",
@@ -92,7 +110,9 @@
       "isVN": true,
       "steamAppID": 333600,
       "arch": "x86",
-      "status": "playable"
+      "status": "playable",
+      "downloadSource": "Steam",
+      "testOnDevice": "iPhone Air"
     },
     {
       "id": "atri-my-dear-moments",
@@ -101,7 +121,9 @@
       "steamAppID": 1230140,
       "arch": "x86",
       "status": "playable",
-      "notes": "Story scenes ~20 fps"
+      "notes": "Story scenes ~20 fps",
+      "downloadSource": "Steam",
+      "testOnDevice": "iPhone Air"
     },
     {
       "id": "prince-of-persia-the-sands-of-time-2003",
@@ -111,7 +133,9 @@
       "year": 2003,
       "arch": "x86",
       "status": "playable",
-      "notes": "Audio choppy"
+      "notes": "Audio choppy",
+      "downloadSource": "GOG",
+      "testOnDevice": "iPhone Air"
     },
     {
       "id": "full-tilt-pinball-1995",
@@ -119,7 +143,9 @@
       "isVN": false,
       "year": 1995,
       "arch": "x86",
-      "status": "playable"
+      "status": "playable",
+      "downloadSource": "Steam",
+      "testOnDevice": "iPhone Air"
     },
     {
       "id": "skifree-1991",
@@ -127,7 +153,9 @@
       "isVN": false,
       "year": 1991,
       "arch": "x86",
-      "status": "playable"
+      "status": "playable",
+      "downloadSource": "Steam",
+      "testOnDevice": "iPhone Air"
     },
     {
       "id": "steins-gate-0-2018",
@@ -137,7 +165,9 @@
       "year": 2018,
       "arch": "x86",
       "status": "playable",
-      "notes": "some cutscene stutter"
+      "notes": "some cutscene stutter",
+      "downloadSource": "Steam",
+      "testOnDevice": "iPhone Air"
     },
     {
       "id": "steins-gate-elite-2019",
@@ -147,7 +177,9 @@
       "year": 2019,
       "arch": "x86",
       "status": "playable",
-      "notes": "some cutscene stutter"
+      "notes": "some cutscene stutter",
+      "downloadSource": "Steam",
+      "testOnDevice": "iPhone Air"
     },
     {
       "id": "99-spirits-2014",
@@ -156,7 +188,9 @@
       "steamAppID": 258090,
       "year": 2014,
       "arch": "x86",
-      "status": "playable"
+      "status": "playable",
+      "downloadSource": "Steam",
+      "testOnDevice": "iPhone Air"
     },
     {
       "id": "go-go-nippon-my-first-trip-to-japan-2011",
@@ -165,7 +199,9 @@
       "steamAppID": 251870,
       "year": 2011,
       "arch": "x86",
-      "status": "playable"
+      "status": "playable",
+      "downloadSource": "Steam",
+      "testOnDevice": "iPhone Air"
     },
     {
       "id": "the-deed-2015",
@@ -175,7 +211,9 @@
       "year": 2015,
       "arch": "x86",
       "status": "playable",
-      "notes": "Very slow"
+      "notes": "Very slow",
+      "downloadSource": "Steam",
+      "testOnDevice": "iPhone Air"
     },
     {
       "id": "corpse-party-2016",
@@ -184,7 +222,9 @@
       "steamAppID": 251270,
       "year": 2016,
       "arch": "x86",
-      "status": "playable"
+      "status": "playable",
+      "downloadSource": "Steam",
+      "testOnDevice": "iPhone Air"
     },
     {
       "id": "overcooked-2-2018",
@@ -194,7 +234,9 @@
       "year": 2018,
       "arch": "x86",
       "status": "in-menu",
-      "notes": "Very slow"
+      "notes": "Very slow",
+      "downloadSource": "Steam",
+      "testOnDevice": "iPhone Air"
     },
     {
       "id": "agarest-zero-2015",
@@ -203,8 +245,10 @@
       "steamAppID": 260130,
       "year": 2015,
       "arch": "x86",
-      "status": "boots",
-      "notes": "Stops at Now Loading"
+      "status": "in-menu",
+      "notes": "Movies play black",
+      "downloadSource": "Steam",
+      "testOnDevice": "iPhone Air"
     },
     {
       "id": "lightning-returns-final-fantasy-xiii-2015",
@@ -213,7 +257,784 @@
       "steamAppID": 345350,
       "year": 2015,
       "arch": "x86",
-      "status": "unplayable"
+      "status": "playable",
+      "notes": "Slow (~8 fps); best on Fast option",
+      "downloadSource": "Steam",
+      "testOnDevice": "iPhone Air"
+    },
+    {
+      "id": "persona-3-reload-2024",
+      "title": "Persona 3 Reload",
+      "isVN": false,
+      "steamAppID": 2161700,
+      "year": 2024,
+      "arch": "x64",
+      "status": "boots",
+      "notes": "Denuvo: stalls at startup",
+      "downloadSource": "Steam",
+      "testOnDevice": "iPhone Air"
+    },
+    {
+      "id": "persona-4-golden-2020",
+      "title": "Persona 4 Golden",
+      "isVN": false,
+      "steamAppID": 1113000,
+      "year": 2020,
+      "arch": "x64",
+      "status": "boots",
+      "notes": "Denuvo: stalls at startup",
+      "downloadSource": "Steam",
+      "testOnDevice": "iPhone Air"
+    },
+    {
+      "id": "final-fantasy-resonance-demo",
+      "title": "FINAL FANTASY RESONANCE DEMO",
+      "isVN": false,
+      "steamAppID": 4474710,
+      "arch": "x64",
+      "status": "unplayable",
+      "notes": "Exits at start (code 9001)",
+      "downloadSource": "Steam",
+      "testOnDevice": "iPhone Air"
+    },
+    {
+      "id": "octopath-traveler-0-prologue-demo",
+      "title": "OCTOPATH TRAVELER 0 Prologue Demo",
+      "isVN": false,
+      "steamAppID": 3014330,
+      "arch": "x64",
+      "status": "intro",
+      "notes": "Still loading after 5 min",
+      "downloadSource": "Steam",
+      "testOnDevice": "iPhone Air"
+    },
+    {
+      "id": "a-date-with-death",
+      "title": "A Date with Death",
+      "isVN": true,
+      "steamAppID": 2415010,
+      "arch": "x64",
+      "status": "boots",
+      "notes": "Black screen",
+      "downloadSource": "Steam",
+      "testOnDevice": "iPhone Air"
+    },
+    {
+      "id": "iwakura-aria-trial",
+      "title": "Iwakura Aria Trial ver.",
+      "isVN": true,
+      "steamAppID": 3481060,
+      "arch": "x64",
+      "status": "in-menu",
+      "notes": "Title menu; gameplay untested",
+      "downloadSource": "Steam",
+      "testOnDevice": "iPhone Air"
+    },
+    {
+      "id": "genso-manege-demo",
+      "title": "Genso Manège Demo",
+      "isVN": false,
+      "steamAppID": 3209720,
+      "arch": "x64",
+      "status": "boots",
+      "notes": "Engine killed after ~1 min",
+      "downloadSource": "Steam",
+      "testOnDevice": "iPhone Air"
+    },
+    {
+      "id": "rebirth2-beware-of-mr-wang",
+      "title": "Rebirth2:Beware of Mr.Wang",
+      "isVN": false,
+      "steamAppID": 1517960,
+      "arch": "x64",
+      "status": "in-menu",
+      "notes": "Name entry; gameplay untested",
+      "downloadSource": "Steam",
+      "testOnDevice": "iPhone Air"
+    },
+    {
+      "id": "paranormasight-the-seven-mysteries-of-honjo-2023",
+      "title": "PARANORMASIGHT: The Seven Mysteries of Honjo",
+      "isVN": true,
+      "steamAppID": 2106840,
+      "year": 2023,
+      "arch": "x64",
+      "status": "boots",
+      "notes": "Engine killed after ~1 min",
+      "downloadSource": "Steam",
+      "testOnDevice": "iPhone Air"
+    },
+    {
+      "id": "massage-my-ex-bully",
+      "title": "MASSAGE MY EX-BULLY",
+      "isVN": false,
+      "steamAppID": 3122900,
+      "arch": "x64",
+      "status": "unplayable",
+      "notes": "Stops at start",
+      "downloadSource": "Steam",
+      "testOnDevice": "iPhone Air"
+    },
+    {
+      "id": "projekt-godhand",
+      "title": "PROJEKT GODHAND",
+      "isVN": false,
+      "steamAppID": 2978440,
+      "arch": "x64",
+      "status": "boots",
+      "notes": "Exits after ~1 min (code 139)",
+      "downloadSource": "Steam",
+      "testOnDevice": "iPhone Air"
+    },
+    {
+      "id": "sex-secrets-used-tech",
+      "title": "Sex, Secrets & Used Tech",
+      "isVN": false,
+      "steamAppID": 3576350,
+      "arch": "x64",
+      "status": "boots",
+      "notes": "Black screen",
+      "downloadSource": "Steam",
+      "testOnDevice": "iPhone Air"
+    },
+    {
+      "id": "benefitship-demo",
+      "title": "Benefitship Demo",
+      "isVN": false,
+      "steamAppID": 2768120,
+      "arch": "x64",
+      "status": "boots",
+      "notes": "Exits with no picture (code 139)",
+      "downloadSource": "Steam",
+      "testOnDevice": "iPhone Air"
+    },
+    {
+      "id": "the-noexistencen-of-you-and-me",
+      "title": "The NOexistenceN of you AND me",
+      "isVN": true,
+      "steamAppID": 2873080,
+      "arch": "x64",
+      "status": "boots",
+      "notes": "Engine killed after ~1 min",
+      "downloadSource": "Steam",
+      "testOnDevice": "iPhone Air"
+    },
+    {
+      "id": "coffee-caravan",
+      "title": "Coffee Caravan",
+      "isVN": false,
+      "steamAppID": 2649080,
+      "arch": "x64",
+      "status": "boots",
+      "notes": "Stops after ~40 s",
+      "downloadSource": "Steam",
+      "testOnDevice": "iPhone Air"
+    },
+    {
+      "id": "secret-camera",
+      "title": "Secret Camera",
+      "isVN": false,
+      "steamAppID": 1928500,
+      "arch": "x64",
+      "status": "unplayable",
+      "notes": "Does not start",
+      "downloadSource": "Steam",
+      "testOnDevice": "iPhone Air"
+    },
+    {
+      "id": "crowalt-traces-of-the-lost-colony",
+      "title": "Crowalt: Traces of the Lost Colony",
+      "isVN": false,
+      "steamAppID": 1269500,
+      "arch": "x64",
+      "status": "in-menu",
+      "notes": "Title menu; gameplay untested",
+      "downloadSource": "Steam",
+      "testOnDevice": "iPhone Air"
+    },
+    {
+      "id": "cornerpond",
+      "title": "Cornerpond",
+      "isVN": false,
+      "steamAppID": 3454590,
+      "arch": "x64",
+      "status": "unplayable",
+      "notes": "Stops at start",
+      "downloadSource": "Steam",
+      "testOnDevice": "iPhone Air"
+    },
+    {
+      "id": "final-fantasy-vii",
+      "title": "FINAL FANTASY VII",
+      "isVN": false,
+      "steamAppID": 3837340,
+      "arch": "x86",
+      "status": "unplayable",
+      "notes": ".NET launcher not supported",
+      "downloadSource": "Steam",
+      "testOnDevice": "iPhone Air"
+    },
+    {
+      "id": "buttknight",
+      "title": "ButtKnight",
+      "isVN": false,
+      "steamAppID": 2772820,
+      "arch": "x64",
+      "status": "boots",
+      "notes": "Freezes after ~20 s",
+      "downloadSource": "Steam",
+      "testOnDevice": "iPhone Air"
+    },
+    {
+      "id": "platform-8",
+      "title": "Platform 8",
+      "isVN": false,
+      "steamAppID": 2903560,
+      "arch": "x64",
+      "status": "boots",
+      "notes": "Out of memory before first frame",
+      "downloadSource": "Steam",
+      "testOnDevice": "iPhone Air"
+    },
+    {
+      "id": "dispatch",
+      "title": "Dispatch",
+      "isVN": false,
+      "steamAppID": 2592160,
+      "arch": "x64",
+      "status": "boots",
+      "notes": "Stops before first frame",
+      "downloadSource": "Steam",
+      "testOnDevice": "iPhone Air"
+    },
+    {
+      "id": "the-noexistencen-of-morphean-paradox",
+      "title": "The NOexistenceN of Morphean Paradox : The Forest of Silver Shallots",
+      "isVN": true,
+      "steamAppID": 3942480,
+      "arch": "x64",
+      "status": "boots",
+      "notes": "Stops before first frame",
+      "downloadSource": "Steam",
+      "testOnDevice": "iPhone Air"
+    },
+    {
+      "id": "yomawari-night-alone-2017",
+      "title": "Yomawari: Night Alone",
+      "isVN": false,
+      "steamAppID": 477870,
+      "year": 2017,
+      "arch": "x86",
+      "status": "unplayable",
+      "notes": "Needs Direct3D 10.1",
+      "downloadSource": "Steam",
+      "testOnDevice": "iPhone Air"
+    },
+    {
+      "id": "pid-2012",
+      "title": "Pid",
+      "isVN": false,
+      "steamAppID": 218740,
+      "year": 2012,
+      "arch": "x86",
+      "status": "in-menu",
+      "notes": "Title screen (35 fps); gameplay untested",
+      "downloadSource": "Steam",
+      "testOnDevice": "iPhone Air"
+    },
+    {
+      "id": "distraint-deluxe-edition",
+      "title": "DISTRAINT: Deluxe Edition",
+      "isVN": false,
+      "steamAppID": 395170,
+      "arch": "x86",
+      "status": "unplayable",
+      "notes": "Stops at start",
+      "downloadSource": "Steam",
+      "testOnDevice": "iPhone Air"
+    },
+    {
+      "id": "dont-starve-2013",
+      "title": "Don't Starve",
+      "isVN": false,
+      "steamAppID": 219740,
+      "year": 2013,
+      "arch": "x86",
+      "status": "unplayable",
+      "notes": "Stops at start",
+      "downloadSource": "Steam",
+      "testOnDevice": "iPhone Air"
+    },
+    {
+      "id": "downfall",
+      "title": "Downfall",
+      "isVN": false,
+      "steamAppID": 364390,
+      "arch": "x86",
+      "status": "boots",
+      "notes": "AGS crash dialog at start",
+      "downloadSource": "Steam",
+      "testOnDevice": "iPhone Air"
+    },
+    {
+      "id": "desktop-dungeons",
+      "title": "Desktop Dungeons",
+      "isVN": false,
+      "steamAppID": 226620,
+      "arch": "x86",
+      "status": "in-menu",
+      "notes": "Start menu (60 fps); gameplay untested",
+      "downloadSource": "Steam",
+      "testOnDevice": "iPhone Air"
+    },
+    {
+      "id": "disgaea-2-pc-2017",
+      "title": "Disgaea 2 PC",
+      "isVN": false,
+      "steamAppID": 495280,
+      "year": 2017,
+      "arch": "x86",
+      "status": "unplayable",
+      "notes": "Needs OpenAL",
+      "downloadSource": "Steam",
+      "testOnDevice": "iPhone Air"
+    },
+    {
+      "id": "distraint-2",
+      "title": "DISTRAINT 2",
+      "isVN": false,
+      "steamAppID": 743390,
+      "arch": "x86",
+      "status": "unplayable",
+      "notes": "Stops at start",
+      "downloadSource": "Steam",
+      "testOnDevice": "iPhone Air"
+    },
+    {
+      "id": "ftl-faster-than-light-2012",
+      "title": "FTL: Faster Than Light",
+      "isVN": false,
+      "steamAppID": 212680,
+      "year": 2012,
+      "arch": "x86",
+      "status": "boots",
+      "notes": "Empty window, then exits",
+      "downloadSource": "Steam",
+      "testOnDevice": "iPhone Air"
+    },
+    {
+      "id": "magellania",
+      "title": "Magellania",
+      "isVN": false,
+      "steamAppID": 1511950,
+      "arch": "x86",
+      "status": "unplayable",
+      "notes": "Needs Visual Basic 6 runtime",
+      "downloadSource": "Steam",
+      "testOnDevice": "iPhone Air"
+    },
+    {
+      "id": "silence-of-the-sleep",
+      "title": "Silence of the Sleep",
+      "isVN": false,
+      "steamAppID": 321870,
+      "arch": "x86",
+      "status": "unplayable",
+      "notes": "Stops at start",
+      "downloadSource": "Steam",
+      "testOnDevice": "iPhone Air"
+    },
+    {
+      "id": "the-inner-world",
+      "title": "The Inner World",
+      "isVN": false,
+      "steamAppID": 251430,
+      "arch": "x86",
+      "status": "unplayable",
+      "notes": "Crashes at start",
+      "downloadSource": "Steam",
+      "testOnDevice": "iPhone Air"
+    },
+    {
+      "id": "war-of-the-human-tanks",
+      "title": "War of the Human Tanks",
+      "isVN": false,
+      "steamAppID": 263400,
+      "arch": "x86",
+      "status": "in-menu",
+      "notes": "Title menu (small window); gameplay untested",
+      "downloadSource": "Steam",
+      "testOnDevice": "iPhone Air"
+    },
+    {
+      "id": "rainblood-chronicles-mirage",
+      "title": "RainBlood Chronicles: Mirage",
+      "isVN": false,
+      "steamAppID": 240660,
+      "arch": "x86",
+      "status": "boots",
+      "notes": "Black screen, then engine killed",
+      "downloadSource": "Steam",
+      "testOnDevice": "iPhone Air"
+    },
+    {
+      "id": "secret-of-magia",
+      "title": "Secret Of Magia",
+      "isVN": false,
+      "steamAppID": 396160,
+      "arch": "x86",
+      "status": "boots",
+      "notes": "Crash dialog at start",
+      "downloadSource": "Steam",
+      "testOnDevice": "iPhone Air"
+    },
+    {
+      "id": "kingdom-classic",
+      "title": "Kingdom: Classic",
+      "isVN": false,
+      "steamAppID": 368230,
+      "arch": "x86",
+      "status": "intro",
+      "notes": "Opening scene at 0.3 fps",
+      "downloadSource": "Steam",
+      "testOnDevice": "iPhone Air"
+    },
+    {
+      "id": "bastion-2011",
+      "title": "Bastion",
+      "isVN": false,
+      "steamAppID": 107100,
+      "year": 2011,
+      "arch": "x86",
+      "status": "unplayable",
+      "notes": ".NET (XNA) not supported",
+      "downloadSource": "Steam",
+      "testOnDevice": "iPhone Air"
+    },
+    {
+      "id": "dust-an-elysian-tail-2013",
+      "title": "Dust: An Elysian Tail",
+      "isVN": false,
+      "steamAppID": 236090,
+      "year": 2013,
+      "arch": "x86",
+      "status": "unplayable",
+      "notes": ".NET (XNA) not supported",
+      "downloadSource": "Steam",
+      "testOnDevice": "iPhone Air"
+    },
+    {
+      "id": "azure-striker-gunvolt",
+      "title": "Azure Striker Gunvolt",
+      "isVN": false,
+      "steamAppID": 388800,
+      "arch": "x86",
+      "status": "boots",
+      "notes": "No picture after 5 min",
+      "downloadSource": "Steam",
+      "testOnDevice": "iPhone Air"
+    },
+    {
+      "id": "detour",
+      "title": "DETOUR",
+      "isVN": false,
+      "steamAppID": 92100,
+      "arch": "x86",
+      "status": "unplayable",
+      "notes": ".NET not supported",
+      "downloadSource": "Steam",
+      "testOnDevice": "iPhone Air"
+    },
+    {
+      "id": "door-kickers-action-squad",
+      "title": "Door Kickers: Action Squad",
+      "isVN": false,
+      "steamAppID": 686200,
+      "arch": "x86",
+      "status": "boots",
+      "notes": "Error: no user data folder",
+      "downloadSource": "Steam",
+      "testOnDevice": "iPhone Air"
+    },
+    {
+      "id": "la-tale",
+      "title": "La Tale",
+      "isVN": false,
+      "steamAppID": 264360,
+      "arch": "x86",
+      "status": "unplayable",
+      "notes": "Stops at start (online game)",
+      "downloadSource": "Steam",
+      "testOnDevice": "iPhone Air"
+    },
+    {
+      "id": "spelunky-2013",
+      "title": "Spelunky",
+      "isVN": false,
+      "steamAppID": 239350,
+      "year": 2013,
+      "arch": "x86",
+      "status": "boots",
+      "notes": "Fatal error dialog at start",
+      "downloadSource": "Steam",
+      "testOnDevice": "iPhone Air"
+    },
+    {
+      "id": "vvvvvv-2010",
+      "title": "VVVVVV",
+      "isVN": false,
+      "steamAppID": 70300,
+      "year": 2010,
+      "arch": "x86",
+      "status": "in-menu",
+      "notes": "Language menu (60 fps); gameplay untested",
+      "downloadSource": "Steam",
+      "testOnDevice": "iPhone Air"
+    },
+    {
+      "id": "valdis-story-abyssal-city",
+      "title": "Valdis Story: Abyssal City",
+      "isVN": false,
+      "steamAppID": 252030,
+      "arch": "x86",
+      "status": "in-menu",
+      "notes": "Title menu (60 fps); gameplay untested",
+      "downloadSource": "Steam",
+      "testOnDevice": "iPhone Air"
+    },
+    {
+      "id": "the-cat-lady-2012",
+      "title": "The Cat Lady",
+      "isVN": false,
+      "steamAppID": 253110,
+      "year": 2012,
+      "arch": "x86",
+      "status": "boots",
+      "notes": "AGS crash dialog at start",
+      "downloadSource": "Steam",
+      "testOnDevice": "iPhone Air"
+    },
+    {
+      "id": "ys-i",
+      "title": "Ys I",
+      "isVN": false,
+      "steamAppID": 223810,
+      "arch": "x86",
+      "status": "unplayable",
+      "notes": "Stops at start",
+      "downloadSource": "Steam",
+      "testOnDevice": "iPhone Air"
+    },
+    {
+      "id": "spirits",
+      "title": "Spirits",
+      "isVN": false,
+      "steamAppID": 210170,
+      "arch": "x86",
+      "status": "boots",
+      "notes": "Error: OpenGL FBO not supported",
+      "downloadSource": "Steam",
+      "testOnDevice": "iPhone Air"
+    },
+    {
+      "id": "phantom-breaker-battle-grounds",
+      "title": "Phantom Breaker: Battle Grounds",
+      "isVN": false,
+      "steamAppID": 329490,
+      "arch": "x86",
+      "status": "boots",
+      "notes": "Crashes while loading",
+      "downloadSource": "Steam",
+      "testOnDevice": "iPhone Air"
+    },
+    {
+      "id": "puzzle-agent-2010",
+      "title": "Puzzle Agent",
+      "isVN": false,
+      "steamAppID": 31270,
+      "year": 2010,
+      "arch": "x86",
+      "status": "unplayable",
+      "notes": "Crashes at start",
+      "downloadSource": "Steam",
+      "testOnDevice": "iPhone Air"
+    },
+    {
+      "id": "pony-island-2016",
+      "title": "Pony Island",
+      "isVN": false,
+      "steamAppID": 405640,
+      "year": 2016,
+      "arch": "x86",
+      "status": "intro",
+      "notes": "Intro screen at ~1 fps",
+      "downloadSource": "Steam",
+      "testOnDevice": "iPhone Air"
+    },
+    {
+      "id": "lieat-2015",
+      "title": "LiEat",
+      "isVN": false,
+      "steamAppID": 373770,
+      "year": 2015,
+      "arch": "x86",
+      "status": "in-menu",
+      "notes": "Title menu at 60 fps; start Game.exe, not Config.exe",
+      "downloadSource": "Steam",
+      "testOnDevice": "iPhone Air"
+    },
+    {
+      "id": "sonic-the-hedgehog-4-episode-i-2010",
+      "title": "Sonic the Hedgehog 4: Episode I",
+      "isVN": false,
+      "steamAppID": 202530,
+      "year": 2010,
+      "arch": "x86",
+      "status": "unplayable",
+      "notes": "Crashes at start",
+      "downloadSource": "Steam",
+      "testOnDevice": "iPhone Air"
+    },
+    {
+      "id": "oddworld-abe-s-oddysee-1997",
+      "title": "Oddworld: Abe's Oddysee",
+      "isVN": false,
+      "steamAppID": 15700,
+      "year": 1997,
+      "arch": "x86",
+      "status": "boots",
+      "notes": "Hangs before the first screen",
+      "downloadSource": "Steam",
+      "testOnDevice": "iPhone Air"
+    },
+    {
+      "id": "crypt-of-the-necrodancer-2015",
+      "title": "Crypt of the NecroDancer",
+      "isVN": false,
+      "steamAppID": 247080,
+      "year": 2015,
+      "arch": "x86",
+      "status": "unplayable",
+      "notes": "Crashes before the first frame",
+      "downloadSource": "Steam",
+      "testOnDevice": "iPhone Air"
+    },
+    {
+      "id": "eets-munchies-2013",
+      "title": "Eets Munchies",
+      "isVN": false,
+      "steamAppID": 214550,
+      "year": 2013,
+      "arch": "x86",
+      "status": "unplayable",
+      "notes": "Quits before the first frame",
+      "downloadSource": "Steam",
+      "testOnDevice": "iPhone Air"
+    },
+    {
+      "id": "destiny-warriors-2016",
+      "title": "Destiny Warriors",
+      "isVN": false,
+      "steamAppID": 399790,
+      "year": 2016,
+      "arch": "x86",
+      "status": "boots",
+      "notes": "Launcher shows the game's own crash dialog",
+      "downloadSource": "Steam",
+      "testOnDevice": "iPhone Air"
+    },
+    {
+      "id": "deadlight-2012",
+      "title": "Deadlight",
+      "isVN": false,
+      "steamAppID": 211400,
+      "year": 2012,
+      "arch": "x86",
+      "status": "unplayable",
+      "notes": "Stops at start: needs WinSock (WSOCK32)",
+      "downloadSource": "Steam",
+      "testOnDevice": "iPhone Air"
+    },
+    {
+      "id": "epic-battle-fantasy-4-2014",
+      "title": "Epic Battle Fantasy 4",
+      "isVN": false,
+      "steamAppID": 265610,
+      "year": 2014,
+      "arch": "x86",
+      "status": "unplayable",
+      "notes": "Stops at start: missing Secur32 function",
+      "downloadSource": "Steam",
+      "testOnDevice": "iPhone Air"
+    },
+    {
+      "id": "pastel-parade",
+      "title": "Pastel☆Parade",
+      "isVN": false,
+      "steamAppID": 2685840,
+      "arch": "x64",
+      "status": "unplayable",
+      "notes": "Quits before the first frame",
+      "downloadSource": "Steam",
+      "testOnDevice": "iPhone Air"
+    },
+    {
+      "id": "hyperdimension-neptunia-re-birth1-2015",
+      "title": "Hyperdimension Neptunia Re;Birth1",
+      "isVN": false,
+      "steamAppID": 282900,
+      "year": 2015,
+      "arch": "x86",
+      "status": "boots",
+      "notes": "Black window; stops on a missing Steam API function",
+      "downloadSource": "Steam",
+      "testOnDevice": "iPhone Air"
+    },
+    {
+      "id": "livestream-escape-from-hotel-izanami-2021",
+      "title": "Livestream: Escape from Hotel Izanami",
+      "isVN": true,
+      "steamAppID": 1523400,
+      "year": 2021,
+      "arch": "x64",
+      "status": "boots",
+      "notes": "Hangs before the first frame",
+      "downloadSource": "Steam",
+      "testOnDevice": "iPhone Air"
+    },
+    {
+      "id": "banner-of-the-maid-2019",
+      "title": "Banner of the Maid",
+      "isVN": false,
+      "steamAppID": 994730,
+      "year": 2019,
+      "arch": "x86",
+      "status": "unplayable",
+      "notes": "Crashes at start with the game's crash dialog",
+      "downloadSource": "Steam",
+      "testOnDevice": "iPhone Air"
+    },
+    {
+      "id": "tsugunohi-the-thread-that-beckons-to-heaven",
+      "title": "Tsugunohi -The Thread That Beckons to Heaven-",
+      "isVN": false,
+      "steamAppID": 4830660,
+      "arch": "x86",
+      "status": "in-menu",
+      "notes": "Title screen; runs as its HTML5 version",
+      "downloadSource": "Steam",
+      "testOnDevice": "iPhone Air"
+    },
+    {
+      "id": "evil-god-korone",
+      "title": "Evil God Korone",
+      "isVN": false,
+      "steamAppID": 1748610,
+      "arch": "x86",
+      "status": "in-menu",
+      "notes": "Title menu; runs as its HTML5 version",
+      "downloadSource": "Steam",
+      "testOnDevice": "iPhone Air"
     }
   ]
 }

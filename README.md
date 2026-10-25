@@ -45,6 +45,8 @@ release. That is the point of keeping them in their own repository.
 | `arch` | PC only | `x86` (32-bit) or `x64` (64-bit); the app groups by it |
 | `status` | yes | see below |
 | `notes` | no | one short phrase, e.g. `UI glitchy` |
+| `downloadSource` | no | where the tested copy came from: `Steam` or `GOG` |
+| `testOnDevice` | no | the device the status was observed on, e.g. `iPhone Air` |
 
 ### `status`
 
