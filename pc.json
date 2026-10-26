@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "platform": "pc",
   "platformName": "PC (Windows)",
-  "updated": "2026-10-25",
+  "updated": "2026-10-26",
   "entries": [
     {
       "id": "steins-gate-2010",
@@ -234,7 +234,7 @@
       "year": 2018,
       "arch": "x86",
       "status": "in-menu",
-      "notes": "Very slow",
+      "notes": "Title only with Wine's core off; crashes with it on",
       "downloadSource": "Steam",
       "testOnDevice": "iPhone Air"
     },
@@ -246,7 +246,7 @@
       "year": 2015,
       "arch": "x86",
       "status": "in-menu",
-      "notes": "Movies play black",
+      "notes": "Story scenes play, but no text shows and no sound",
       "downloadSource": "Steam",
       "testOnDevice": "iPhone Air"
     },
@@ -303,8 +303,8 @@
       "isVN": false,
       "steamAppID": 3014330,
       "arch": "x64",
-      "status": "intro",
-      "notes": "Still loading after 5 min",
+      "status": "boots",
+      "notes": "Runs out of memory while loading",
       "downloadSource": "Steam",
       "testOnDevice": "iPhone Air"
     },
@@ -325,8 +325,8 @@
       "isVN": true,
       "steamAppID": 3481060,
       "arch": "x64",
-      "status": "in-menu",
-      "notes": "Title menu; gameplay untested",
+      "status": "playable",
+      "notes": "Plays on Normal option; Fast option runs out of memory",
       "downloadSource": "Steam",
       "testOnDevice": "iPhone Air"
     },
@@ -348,7 +348,7 @@
       "steamAppID": 1517960,
       "arch": "x64",
       "status": "in-menu",
-      "notes": "Name entry; gameplay untested",
+      "notes": "Story starts on Normal option, but its text is missing",
       "downloadSource": "Steam",
       "testOnDevice": "iPhone Air"
     },
@@ -448,7 +448,7 @@
       "steamAppID": 1269500,
       "arch": "x64",
       "status": "in-menu",
-      "notes": "Title menu; gameplay untested",
+      "notes": "Quits about a minute into the first scene",
       "downloadSource": "Steam",
       "testOnDevice": "iPhone Air"
     },
@@ -537,8 +537,8 @@
       "steamAppID": 218740,
       "year": 2012,
       "arch": "x86",
-      "status": "in-menu",
-      "notes": "Title screen (35 fps); gameplay untested",
+      "status": "intro",
+      "notes": "Intro comic, then a black screen at ~10 fps",
       "downloadSource": "Steam",
       "testOnDevice": "iPhone Air"
     },
@@ -583,7 +583,7 @@
       "steamAppID": 226620,
       "arch": "x86",
       "status": "in-menu",
-      "notes": "Start menu (60 fps); gameplay untested",
+      "notes": "Stuck at kingdom-name entry (typed name not taken)",
       "downloadSource": "Steam",
       "testOnDevice": "iPhone Air"
     },
@@ -661,8 +661,8 @@
       "isVN": false,
       "steamAppID": 263400,
       "arch": "x86",
-      "status": "in-menu",
-      "notes": "Title menu (small window); gameplay untested",
+      "status": "playable",
+      "notes": "Story plays by mouse (small window); battles untested",
       "downloadSource": "Steam",
       "testOnDevice": "iPhone Air"
     },
@@ -695,7 +695,7 @@
       "steamAppID": 368230,
       "arch": "x86",
       "status": "intro",
-      "notes": "Opening scene at 0.3 fps",
+      "notes": "Gameplay starts, but at under 1 fps",
       "downloadSource": "Steam",
       "testOnDevice": "iPhone Air"
     },
@@ -786,8 +786,8 @@
       "steamAppID": 70300,
       "year": 2010,
       "arch": "x86",
-      "status": "in-menu",
-      "notes": "Language menu (60 fps); gameplay untested",
+      "status": "playable",
+      "notes": "Plays at 60 fps; sound may stutter",
       "downloadSource": "Steam",
       "testOnDevice": "iPhone Air"
     },
@@ -797,8 +797,8 @@
       "isVN": false,
       "steamAppID": 252030,
       "arch": "x86",
-      "status": "in-menu",
-      "notes": "Title menu (60 fps); gameplay untested",
+      "status": "playable",
+      "notes": "Reaches the first level at ~45 fps",
       "downloadSource": "Steam",
       "testOnDevice": "iPhone Air"
     },
@@ -867,7 +867,7 @@
       "year": 2016,
       "arch": "x86",
       "status": "intro",
-      "notes": "Intro screen at ~1 fps",
+      "notes": "Loads for ~5 min at under 1 fps",
       "downloadSource": "Steam",
       "testOnDevice": "iPhone Air"
     },
@@ -878,8 +878,8 @@
       "steamAppID": 373770,
       "year": 2015,
       "arch": "x86",
-      "status": "in-menu",
-      "notes": "Title menu at 60 fps; start Game.exe, not Config.exe",
+      "status": "playable",
+      "notes": "Plays at 60 fps; start Game.exe, not Config.exe",
       "downloadSource": "Steam",
       "testOnDevice": "iPhone Air"
     },
@@ -1020,8 +1020,8 @@
       "isVN": false,
       "steamAppID": 4830660,
       "arch": "x86",
-      "status": "in-menu",
-      "notes": "Title screen; runs as its HTML5 version",
+      "status": "playable",
+      "notes": "Plays as its HTML5 version",
       "downloadSource": "Steam",
       "testOnDevice": "iPhone Air"
     },
@@ -1031,8 +1031,8 @@
       "isVN": false,
       "steamAppID": 1748610,
       "arch": "x86",
-      "status": "in-menu",
-      "notes": "Title menu; runs as its HTML5 version",
+      "status": "playable",
+      "notes": "Plays as its HTML5 version",
       "downloadSource": "Steam",
       "testOnDevice": "iPhone Air"
     }
