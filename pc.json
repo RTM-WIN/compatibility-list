@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "platform": "pc",
   "platformName": "PC (Windows)",
-  "updated": "2026-10-26",
+  "updated": "2026-10-27",
   "entries": [
     {
       "id": "steins-gate-2010",
@@ -1030,6 +1030,18 @@
       "title": "Evil God Korone",
       "isVN": false,
       "steamAppID": 1748610,
+      "arch": "x86",
+      "status": "playable",
+      "notes": "Plays as its HTML5 version",
+      "downloadSource": "Steam",
+      "testOnDevice": "iPhone Air"
+    },
+    {
+      "id": "fear-hunger-2018",
+      "title": "Fear & Hunger",
+      "isVN": false,
+      "steamAppID": 1002300,
+      "year": 2018,
       "arch": "x86",
       "status": "playable",
       "notes": "Plays as its HTML5 version",
