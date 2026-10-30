@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "platform": "xbox360",
   "platformName": "Xbox 360",
-  "updated": "2026-09-07",
+  "updated": "2026-10-30",
   "entries": [
     {
       "id": "super-mario-64-homebrew",
@@ -15,6 +15,18 @@
       "title": "Final Fantasy XIII",
       "status": "in-menu",
       "notes": "Glitchy"
+    },
+    {
+      "id": "grand-theft-auto-v",
+      "title": "Grand Theft Auto V",
+      "status": "playable",
+      "notes": "2 discs: add both to the shelf"
+    },
+    {
+      "id": "dark-souls",
+      "title": "Dark Souls",
+      "status": "playable",
+      "notes": "use Off Speed"
     }
   ]
 }
