@@ -137,28 +137,6 @@
       "testOnDevice": "iPhone Air"
     },
     {
-      "id": "full-tilt-pinball-1995",
-      "title": "Full Tilt! Pinball (Demo)",
-      "isVN": false,
-      "is2D": true,
-      "year": 1995,
-      "arch": "x86",
-      "status": "playable",
-      "downloadSource": "Steam",
-      "testOnDevice": "iPhone Air"
-    },
-    {
-      "id": "skifree-1991",
-      "title": "SkiFree",
-      "isVN": false,
-      "is2D": true,
-      "year": 1991,
-      "arch": "x86",
-      "status": "playable",
-      "downloadSource": "Steam",
-      "testOnDevice": "iPhone Air"
-    },
-    {
       "id": "steins-gate-0-2018",
       "title": "STEINS;GATE 0",
       "isVN": true,
@@ -204,7 +182,7 @@
       "steamAppID": 251870,
       "year": 2011,
       "arch": "x86",
-      "status": "playable",
+      "status": "runnable",
       "downloadSource": "Steam",
       "testOnDevice": "iPhone Air"
     },
@@ -267,7 +245,7 @@
       "steamAppID": 345350,
       "year": 2015,
       "arch": "x86",
-      "status": "playable",
+      "status": "runnable",
       "notes": "Slow (~8 fps); best on Fast option",
       "downloadSource": "Steam",
       "testOnDevice": "iPhone Air"
@@ -1108,7 +1086,7 @@
       "is2D": true,
       "steamAppID": 1352700,
       "arch": "x64",
-      "status": "playable",
+      "status": "runnable",
       "downloadSource": "Steam",
       "testOnDevice": "iPhone Air"
     },
