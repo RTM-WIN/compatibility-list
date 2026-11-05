@@ -61,6 +61,7 @@ release. That is the point of keeping them in their own repository.
 | `intro` | shows logos or an intro and goes no further |
 | `boots` | starts but produces nothing usable |
 | `unplayable` | does not start |
+| `unchecked` | listed but not run yet; nothing is known about it |
 
 An unrecognised status is not an error: the app shows it verbatim in a neutral
 style rather than dropping the entry, so a new value can be introduced here

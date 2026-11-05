@@ -2083,7 +2083,7 @@
       "steamAppID": 1010600,
       "year": 2019,
       "arch": "x86",
-      "status": "unplayable"
+      "status": "unchecked"
     },
     {
       "id": "nekopara-vol-0-2015",
@@ -2094,8 +2094,7 @@
       "steamAppID": 385800,
       "year": 2015,
       "arch": "x86",
-      "status": "runnable",
-      "notes": "Opening story checked; reached on Mac",
+      "status": "playable",
       "downloadSource": "Steam",
       "testOnDevice": "iPhone 17 Pro Max (Simulator)"
     },
@@ -2108,8 +2107,7 @@
       "steamAppID": 420110,
       "year": 2016,
       "arch": "x86",
-      "status": "runnable",
-      "notes": "Opening story checked; reached on Mac",
+      "status": "playable",
       "downloadSource": "Steam",
       "testOnDevice": "iPhone 17 Pro Max (Simulator)"
     },
@@ -2122,8 +2120,7 @@
       "steamAppID": 602520,
       "year": 2017,
       "arch": "x86",
-      "status": "runnable",
-      "notes": "Opening story checked; reached on Mac",
+      "status": "playable",
       "downloadSource": "Steam",
       "testOnDevice": "iPhone 17 Pro Max (Simulator)"
     },
@@ -2136,8 +2133,7 @@
       "steamAppID": 1406990,
       "year": 2020,
       "arch": "x86",
-      "status": "in-menu",
-      "notes": "Reaches language menu; input lags minutes",
+      "status": "playable",
       "downloadSource": "Steam",
       "testOnDevice": "iPhone 17 Pro Max (Simulator)"
     },
@@ -2150,8 +2146,7 @@
       "steamAppID": 899970,
       "year": 2018,
       "arch": "x86",
-      "status": "runnable",
-      "notes": "Reaches story; minutes-long compiles",
+      "status": "playable",
       "downloadSource": "Steam",
       "testOnDevice": "iPhone 17 Pro Max (Simulator)"
     },
@@ -2164,7 +2159,7 @@
       "steamAppID": 487430,
       "year": 2016,
       "arch": "x86",
-      "status": "unplayable"
+      "status": "unchecked"
     },
     {
       "id": "tokyo-school-life-2015",
@@ -2175,7 +2170,7 @@
       "steamAppID": 320760,
       "year": 2015,
       "arch": "x86",
-      "status": "unplayable"
+      "status": "unchecked"
     },
     {
       "id": "koe-part-1-2024",
@@ -2186,7 +2181,7 @@
       "steamAppID": 672430,
       "year": 2024,
       "arch": "x64",
-      "status": "unplayable"
+      "status": "unchecked"
     },
     {
       "id": "chuusotsu-1st-graduation-time-after-time-2018",
@@ -2197,7 +2192,7 @@
       "steamAppID": 630870,
       "year": 2018,
       "arch": "x86",
-      "status": "unplayable"
+      "status": "unchecked"
     },
     {
       "id": "maitetsu-2018",
@@ -2208,7 +2203,7 @@
       "steamAppID": 714800,
       "year": 2018,
       "arch": "x86",
-      "status": "unplayable"
+      "status": "unchecked"
     },
     {
       "id": "grisaia-phantom-trigger-vol-1-2017",
@@ -2219,7 +2214,7 @@
       "steamAppID": 606510,
       "year": 2017,
       "arch": "x86",
-      "status": "unplayable"
+      "status": "unchecked"
     },
     {
       "id": "nekopara-after-2025",
@@ -2230,8 +2225,7 @@
       "steamAppID": 3655150,
       "year": 2025,
       "arch": "x86",
-      "status": "in-menu",
-      "notes": "Stalls compiling after language menu",
+      "status": "playable",
       "downloadSource": "Steam",
       "testOnDevice": "iPhone 17 Pro Max (Simulator)"
     },
