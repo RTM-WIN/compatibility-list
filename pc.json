@@ -2094,8 +2094,8 @@
       "steamAppID": 385800,
       "year": 2015,
       "arch": "x86",
-      "status": "unplayable",
-      "notes": "Crashes at startup (__fastfail, stack buffer overrun)",
+      "status": "in-menu",
+      "notes": "Reaches language menu",
       "downloadSource": "Steam",
       "testOnDevice": "iPhone 17 Pro Max (Simulator)"
     },
@@ -2108,8 +2108,8 @@
       "steamAppID": 420110,
       "year": 2016,
       "arch": "x86",
-      "status": "unplayable",
-      "notes": "Crashes at startup (__fastfail, stack buffer overrun)",
+      "status": "in-menu",
+      "notes": "Reaches language menu",
       "downloadSource": "Steam",
       "testOnDevice": "iPhone 17 Pro Max (Simulator)"
     },
@@ -2122,8 +2122,8 @@
       "steamAppID": 602520,
       "year": 2017,
       "arch": "x86",
-      "status": "unplayable",
-      "notes": "Crashes at startup (access violation)",
+      "status": "in-menu",
+      "notes": "Reaches display-mode dialog",
       "downloadSource": "Steam",
       "testOnDevice": "iPhone 17 Pro Max (Simulator)"
     },
