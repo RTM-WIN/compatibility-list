@@ -2094,8 +2094,8 @@
       "steamAppID": 385800,
       "year": 2015,
       "arch": "x86",
-      "status": "in-menu",
-      "notes": "Reaches language menu",
+      "status": "runnable",
+      "notes": "Opening story checked; reached on Mac",
       "downloadSource": "Steam",
       "testOnDevice": "iPhone 17 Pro Max (Simulator)"
     },
@@ -2108,8 +2108,8 @@
       "steamAppID": 420110,
       "year": 2016,
       "arch": "x86",
-      "status": "in-menu",
-      "notes": "Reaches language menu",
+      "status": "runnable",
+      "notes": "Opening story checked; reached on Mac",
       "downloadSource": "Steam",
       "testOnDevice": "iPhone 17 Pro Max (Simulator)"
     },
@@ -2122,8 +2122,8 @@
       "steamAppID": 602520,
       "year": 2017,
       "arch": "x86",
-      "status": "in-menu",
-      "notes": "Reaches display-mode dialog",
+      "status": "runnable",
+      "notes": "Opening story checked; reached on Mac",
       "downloadSource": "Steam",
       "testOnDevice": "iPhone 17 Pro Max (Simulator)"
     },
