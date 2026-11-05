@@ -2086,6 +2086,19 @@
       "status": "unchecked"
     },
     {
+      "id": "the-princess-the-stray-cat-and-matters-of-the-heart-demo",
+      "title": "The Princess, the Stray Cat, and Matters of the Heart Demo",
+      "isVN": true,
+      "isSimulSub": true,
+      "is2D": true,
+      "steamAppID": 1023810,
+      "arch": "x86",
+      "status": "runnable",
+      "notes": "Opening story reached",
+      "downloadSource": "Steam",
+      "testOnDevice": "iPhone Air"
+    },
+    {
       "id": "nekopara-vol-0-2015",
       "title": "NEKOPARA Vol. 0",
       "isVN": true,
@@ -2096,7 +2109,7 @@
       "arch": "x86",
       "status": "playable",
       "downloadSource": "Steam",
-      "testOnDevice": "iPhone 17 Pro Max (Simulator)"
+      "testOnDevice": "iPhone Air"
     },
     {
       "id": "nekopara-vol-2-2016",
@@ -2109,7 +2122,7 @@
       "arch": "x86",
       "status": "playable",
       "downloadSource": "Steam",
-      "testOnDevice": "iPhone 17 Pro Max (Simulator)"
+      "testOnDevice": "iPhone Air"
     },
     {
       "id": "nekopara-vol-3-2017",
@@ -2122,7 +2135,7 @@
       "arch": "x86",
       "status": "playable",
       "downloadSource": "Steam",
-      "testOnDevice": "iPhone 17 Pro Max (Simulator)"
+      "testOnDevice": "iPhone Air"
     },
     {
       "id": "nekopara-vol-4-2020",
@@ -2135,7 +2148,7 @@
       "arch": "x86",
       "status": "playable",
       "downloadSource": "Steam",
-      "testOnDevice": "iPhone 17 Pro Max (Simulator)"
+      "testOnDevice": "iPhone Air"
     },
     {
       "id": "nekopara-extra-2018",
@@ -2148,7 +2161,7 @@
       "arch": "x86",
       "status": "playable",
       "downloadSource": "Steam",
-      "testOnDevice": "iPhone 17 Pro Max (Simulator)"
+      "testOnDevice": "iPhone Air"
     },
     {
       "id": "karakara-2016",
@@ -2195,6 +2208,19 @@
       "status": "unchecked"
     },
     {
+      "id": "chuusotsu-1st-graduation-time-after-time-demo",
+      "title": "Chuusotsu! 1st Graduation: Time After Time Demo",
+      "isVN": true,
+      "isSimulSub": true,
+      "is2D": true,
+      "steamAppID": 640020,
+      "arch": "x86",
+      "status": "playable",
+      "notes": "Opening story reached; plays in a small window",
+      "downloadSource": "Steam",
+      "testOnDevice": "iPhone Air"
+    },
+    {
       "id": "maitetsu-2018",
       "title": "Maitetsu",
       "isVN": true,
@@ -2227,7 +2253,7 @@
       "arch": "x86",
       "status": "playable",
       "downloadSource": "Steam",
-      "testOnDevice": "iPhone 17 Pro Max (Simulator)"
+      "testOnDevice": "iPhone Air"
     },
     {
       "id": "karakara2-2017",
