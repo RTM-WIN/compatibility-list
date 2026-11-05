@@ -2073,6 +2073,182 @@
       "notes": ".NET via Wine Mono: still loading after 4 min",
       "downloadSource": "Steam",
       "testOnDevice": "iPhone Air"
+    },
+    {
+      "id": "the-princess-the-stray-cat-and-matters-of-the-heart-2019",
+      "title": "The Princess, the Stray Cat, and Matters of the Heart",
+      "isVN": true,
+      "isSimulSub": true,
+      "is2D": true,
+      "steamAppID": 1010600,
+      "year": 2019,
+      "arch": "x86",
+      "status": "unplayable"
+    },
+    {
+      "id": "nekopara-vol-0-2015",
+      "title": "NEKOPARA Vol. 0",
+      "isVN": true,
+      "isSimulSub": true,
+      "is2D": true,
+      "steamAppID": 385800,
+      "year": 2015,
+      "arch": "x86",
+      "status": "unplayable"
+    },
+    {
+      "id": "nekopara-vol-2-2016",
+      "title": "NEKOPARA Vol. 2",
+      "isVN": true,
+      "isSimulSub": true,
+      "is2D": true,
+      "steamAppID": 420110,
+      "year": 2016,
+      "arch": "x86",
+      "status": "unplayable"
+    },
+    {
+      "id": "nekopara-vol-3-2017",
+      "title": "NEKOPARA Vol. 3",
+      "isVN": true,
+      "isSimulSub": true,
+      "is2D": true,
+      "steamAppID": 602520,
+      "year": 2017,
+      "arch": "x86",
+      "status": "unplayable"
+    },
+    {
+      "id": "nekopara-vol-4-2020",
+      "title": "NEKOPARA Vol. 4",
+      "isVN": true,
+      "isSimulSub": true,
+      "is2D": true,
+      "steamAppID": 1406990,
+      "year": 2020,
+      "arch": "x86",
+      "status": "unplayable"
+    },
+    {
+      "id": "nekopara-extra-2018",
+      "title": "NEKOPARA Extra",
+      "isVN": true,
+      "isSimulSub": true,
+      "is2D": true,
+      "steamAppID": 899970,
+      "year": 2018,
+      "arch": "x86",
+      "status": "unplayable"
+    },
+    {
+      "id": "karakara-2016",
+      "title": "KARAKARA",
+      "isVN": true,
+      "isSimulSub": true,
+      "is2D": true,
+      "steamAppID": 487430,
+      "year": 2016,
+      "arch": "x86",
+      "status": "unplayable"
+    },
+    {
+      "id": "tokyo-school-life-2015",
+      "title": "Tokyo School Life",
+      "isVN": true,
+      "isSimulSub": true,
+      "is2D": true,
+      "steamAppID": 320760,
+      "year": 2015,
+      "arch": "x86",
+      "status": "unplayable"
+    },
+    {
+      "id": "koe-part-1-2024",
+      "title": "Koe (声): Part 1",
+      "isVN": true,
+      "isSimulSub": true,
+      "is2D": true,
+      "steamAppID": 672430,
+      "year": 2024,
+      "arch": "x64",
+      "status": "unplayable"
+    },
+    {
+      "id": "chuusotsu-1st-graduation-time-after-time-2018",
+      "title": "Chuusotsu! 1st Graduation: Time After Time",
+      "isVN": true,
+      "isSimulSub": true,
+      "is2D": true,
+      "steamAppID": 630870,
+      "year": 2018,
+      "arch": "x86",
+      "status": "unplayable"
+    },
+    {
+      "id": "maitetsu-2018",
+      "title": "Maitetsu",
+      "isVN": true,
+      "isSimulSub": true,
+      "is2D": true,
+      "steamAppID": 714800,
+      "year": 2018,
+      "arch": "x86",
+      "status": "unplayable"
+    },
+    {
+      "id": "grisaia-phantom-trigger-vol-1-2017",
+      "title": "Grisaia Phantom Trigger Vol.1",
+      "isVN": true,
+      "isSimulSub": true,
+      "is2D": true,
+      "steamAppID": 606510,
+      "year": 2017,
+      "arch": "x86",
+      "status": "unplayable"
+    },
+    {
+      "id": "nekopara-after-2025",
+      "title": "NEKOPARA After",
+      "isVN": true,
+      "isSimulSub": false,
+      "is2D": true,
+      "steamAppID": 3655150,
+      "year": 2025,
+      "arch": "x86",
+      "status": "unplayable"
+    },
+    {
+      "id": "karakara2-2017",
+      "title": "KARAKARA2",
+      "isVN": true,
+      "isSimulSub": false,
+      "is2D": true,
+      "steamAppID": 745850,
+      "year": 2017,
+      "arch": "x86",
+      "status": "unplayable"
+    },
+    {
+      "id": "adabana-odd-tales-2020",
+      "title": "Adabana Odd Tales",
+      "isVN": true,
+      "isSimulSub": false,
+      "is2D": true,
+      "steamAppID": 1094820,
+      "year": 2020,
+      "arch": "x86",
+      "status": "unplayable"
+    },
+    {
+      "id": "umineko-when-they-cry-question-arcs-2016",
+      "title": "Umineko When They Cry - Question Arcs",
+      "isVN": true,
+      "isSimulSub": false,
+      "is2D": true,
+      "steamAppID": 406550,
+      "year": 2016,
+      "arch": "x86",
+      "status": "unplayable"
     }
   ]
 }
