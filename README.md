@@ -42,6 +42,7 @@ release. That is the point of keeping them in their own repository.
 | `title` | yes | the title as a player would recognise it |
 | `isVN` | no | `true` for a visual novel. Left out, a title counts as not one |
 | `is2D` | no | `true` when the game is drawn from 2D art (illustrations, sprites, pixel art), even if its engine places that art in 3D; `false` for a 3D world. The app's Compatibility page filters on `isVN` and `is2D` together: 2D Visual Novel (both `true`) / 2D (`is2D`) / Others (neither) / All. Left out, a title counts as not 2D |
+| `isSimulSub` | no | `true` when the game can show text in two languages on screen at the same time (e.g. Japanese and English together), not just switch between them. Left out, a title counts as not having it |
 | `steamAppID` | no | the game's Steam app id (the number in its store URL). The app's Steam tab uses it for the "Verified games" filter, so a demo gets the **demo's** id, not the full game's. Leave it out for titles that are not on Steam |
 | `year` | no | release year, shown beside the title |
 | `arch` | PC only | `x86` (32-bit) or `x64` (64-bit); the app groups by it |
