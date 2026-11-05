@@ -2094,7 +2094,10 @@
       "steamAppID": 385800,
       "year": 2015,
       "arch": "x86",
-      "status": "unplayable"
+      "status": "unplayable",
+      "notes": "Crashes at startup (__fastfail, stack buffer overrun)",
+      "downloadSource": "Steam",
+      "testOnDevice": "iPhone 17 Pro Max (Simulator)"
     },
     {
       "id": "nekopara-vol-2-2016",
@@ -2105,7 +2108,10 @@
       "steamAppID": 420110,
       "year": 2016,
       "arch": "x86",
-      "status": "unplayable"
+      "status": "unplayable",
+      "notes": "Crashes at startup (__fastfail, stack buffer overrun)",
+      "downloadSource": "Steam",
+      "testOnDevice": "iPhone 17 Pro Max (Simulator)"
     },
     {
       "id": "nekopara-vol-3-2017",
@@ -2116,7 +2122,10 @@
       "steamAppID": 602520,
       "year": 2017,
       "arch": "x86",
-      "status": "unplayable"
+      "status": "unplayable",
+      "notes": "Crashes at startup (access violation)",
+      "downloadSource": "Steam",
+      "testOnDevice": "iPhone 17 Pro Max (Simulator)"
     },
     {
       "id": "nekopara-vol-4-2020",
@@ -2127,7 +2136,10 @@
       "steamAppID": 1406990,
       "year": 2020,
       "arch": "x86",
-      "status": "unplayable"
+      "status": "in-menu",
+      "notes": "Reaches language menu; input lags minutes",
+      "downloadSource": "Steam",
+      "testOnDevice": "iPhone 17 Pro Max (Simulator)"
     },
     {
       "id": "nekopara-extra-2018",
@@ -2138,7 +2150,10 @@
       "steamAppID": 899970,
       "year": 2018,
       "arch": "x86",
-      "status": "unplayable"
+      "status": "runnable",
+      "notes": "Reaches story; minutes-long compiles",
+      "downloadSource": "Steam",
+      "testOnDevice": "iPhone 17 Pro Max (Simulator)"
     },
     {
       "id": "karakara-2016",
@@ -2210,12 +2225,15 @@
       "id": "nekopara-after-2025",
       "title": "NEKOPARA After",
       "isVN": true,
-      "isSimulSub": false,
+      "isSimulSub": true,
       "is2D": true,
       "steamAppID": 3655150,
       "year": 2025,
       "arch": "x86",
-      "status": "unplayable"
+      "status": "in-menu",
+      "notes": "Stalls compiling after language menu",
+      "downloadSource": "Steam",
+      "testOnDevice": "iPhone 17 Pro Max (Simulator)"
     },
     {
       "id": "karakara2-2017",
