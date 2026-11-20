@@ -7,6 +7,7 @@ JSON files, one per emulated machine (and one for the 32-bit app), read directly
 | `pc.json` | PC (Windows) titles, 32- and 64-bit |
 | `pc-32bit.json` | PC (Windows) 32-bit titles, as the 32-bit app (RTMHub32) runs them |
 | `xbox360.json` | Xbox 360 titles |
+| `ps4.json` | PS4 titles, as RTM EMU's PS4 SE runs them |
 
 The app fetches these over HTTPS from `raw.githubusercontent.com` on the
 `main` branch, so **an edit merged here reaches every installed app** without a

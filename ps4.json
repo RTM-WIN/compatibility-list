@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "platform": "ps4",
+  "platformName": "PS4",
+  "updated": "2026-11-20",
+  "entries": [
+    {
+      "id": "hollow-knight",
+      "title": "Hollow Knight",
+      "status": "playable",
+      "notes": "33-35 fps",
+      "testOnDevice": "iPhone Air"
+    },
+    {
+      "id": "13-sentinels-aegis-rim",
+      "title": "13 Sentinels: Aegis Rim",
+      "status": "playable",
+      "notes": "30 fps",
+      "testOnDevice": "iPhone Air"
+    }
+  ]
+}
