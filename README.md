@@ -8,6 +8,8 @@ JSON files, one per emulated machine (and one for the 32-bit app), read directly
 | `pc-32bit.json` | PC (Windows) 32-bit titles, as the 32-bit app (RTMHub32) runs them |
 | `xbox360.json` | Xbox 360 titles |
 | `ps4.json` | PS4 titles, as RTM EMU's PS4 SE runs them |
+| `vita-rc.json` | PS Vita titles, as RTM EMU's VITA RC runs them (recompiled on the device: only games its kit has a pack for) |
+| `vita.json` | PS Vita titles, as RTM EMU's VITA runs them (the Vita3K-based emulator) |
 
 The app fetches these over HTTPS from `raw.githubusercontent.com` on the
 `main` branch, so **an edit merged here reaches every installed app** without a

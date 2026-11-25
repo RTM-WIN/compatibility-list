@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "platform": "vita",
+  "platformName": "VITA",
+  "updated": "2026-11-25",
+  "entries": [
+    {
+      "id": "uncharted-golden-abyss",
+      "title": "Uncharted: Golden Abyss",
+      "year": 2011,
+      "status": "runnable",
+      "notes": "15-16 fps",
+      "testOnDevice": "iPhone Air"
+    }
+  ]
+}
