@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "platform": "vita-rc",
   "platformName": "VITA RC",
-  "updated": "2026-11-25",
+  "updated": "2026-11-26",
   "entries": [
     {
       "id": "uncharted-golden-abyss",
@@ -11,6 +11,14 @@
       "status": "runnable",
       "notes": "30 fps, after a ~9 min recompile on the device",
       "testOnDevice": "iPhone Air"
+    },
+    {
+      "id": "littlebigplanet-ps-vita-marvel-super-hero-edition",
+      "title": "LittleBigPlanet PS Vita: Marvel Super Hero Edition",
+      "year": 2014,
+      "status": "runnable",
+      "notes": "30 fps in its first level; not in the kit yet (no pack for it)",
+      "testOnDevice": "iPhone 17 (Simulator)"
     }
   ]
 }

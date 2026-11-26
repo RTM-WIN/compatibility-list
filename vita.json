@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "platform": "vita",
   "platformName": "VITA",
-  "updated": "2026-11-25",
+  "updated": "2026-11-26",
   "entries": [
     {
       "id": "uncharted-golden-abyss",
@@ -11,6 +11,14 @@
       "status": "runnable",
       "notes": "15-16 fps",
       "testOnDevice": "iPhone Air"
+    },
+    {
+      "id": "littlebigplanet-ps-vita-marvel-super-hero-edition",
+      "title": "LittleBigPlanet PS Vita: Marvel Super Hero Edition",
+      "year": 2014,
+      "status": "runnable",
+      "notes": "30 fps in its first level, ~20 in the pod; no intro film; from the next app build",
+      "testOnDevice": "iPhone 17 (Simulator)"
     }
   ]
 }
