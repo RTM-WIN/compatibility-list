@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "platform": "xbox360-rc",
+  "platformName": "360 RC",
+  "updated": "2026-11-26",
+  "entries": [
+    {
+      "id": "gears-of-war-2",
+      "title": "Gears of War 2",
+      "year": 2008,
+      "status": "runnable",
+      "notes": "28-30 fps in its first level; only its opening checked",
+      "testOnDevice": "iPhone Air"
+    },
+    {
+      "id": "the-elder-scrolls-v-skyrim",
+      "title": "The Elder Scrolls V: Skyrim",
+      "year": 2011,
+      "status": "runnable",
+      "notes": "13-25 fps in Helgen, 30 in menus; only its opening checked",
+      "testOnDevice": "iPhone Air"
+    }
+  ]
+}

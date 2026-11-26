@@ -7,6 +7,7 @@ JSON files, one per emulated machine (and one for the 32-bit app), read directly
 | `pc.json` | PC (Windows) titles, 32- and 64-bit |
 | `pc-32bit.json` | PC (Windows) 32-bit titles, as the 32-bit app (RTMHub32) runs them |
 | `xbox360.json` | Xbox 360 titles |
+| `xbox360-rc.json` | Xbox 360 titles, as RTM EMU's 360 RC runs them (recompiled on the device by the universal recompiler: any disc the player installs) |
 | `ps4.json` | PS4 titles, as RTM EMU's PS4 SE runs them |
 | `vita-rc.json` | PS Vita titles, as RTM EMU's VITA RC runs them (recompiled on the device: only games its kit has a pack for) |
 | `vita.json` | PS Vita titles, as RTM EMU's VITA runs them (the Vita3K-based emulator) |
